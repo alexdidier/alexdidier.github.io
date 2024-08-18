@@ -2,9 +2,6 @@
 # Display name
 title: Alexandre Didier
 
-# Name pronunciation (optional)
-name_pronunciation: Alexandre Didier
-
 # Full name (for SEO)
 first_name: Alexandre
 last_name: Didier
