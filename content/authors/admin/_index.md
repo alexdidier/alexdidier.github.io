@@ -39,8 +39,6 @@ profiles:
     url: https://www.linkedin.com/in/alex-didier
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=m\_wFCFcAAAAJ
-# - icon: academicons/orcid
-# url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -79,8 +77,7 @@ education:
 work:
   - position: test
     company_name: test
-    company_url: ''
-    company_logo: ''
+    company_url: test
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
@@ -123,10 +120,8 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: test
-    url: 
     date: '2023-11-25'
-    awarder: 
-    icon: 
+    awarder: test
     summary: |
       test
 ---
