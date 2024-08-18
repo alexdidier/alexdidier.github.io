@@ -95,7 +95,6 @@ skills:
     items:
       - name: Skiing
         description: ''
-        percent: 60
         icon: person-simple-walk
 
 languages:
