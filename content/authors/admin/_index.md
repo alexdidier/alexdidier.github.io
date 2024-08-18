@@ -92,13 +92,13 @@ work:
       - Integration of an Intel RealSense camera with an NVIDIA Jetson and the ABB YuMi robot
       - Develop real-time demonstrations including scanning a 2D workfield and maneuvering around obstacles as well as following human arm positions
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to `assets/media/icons/` 
+#        description: ''
+#        icon: code-bracket
 skills:
   - name: Programming Languages
     items:
       - name: Python
-#        description: ''
-#        icon: code-bracket
       - name: MATLAB
       - name: C++
       - name: Unix Shell Script
@@ -118,9 +118,13 @@ skills:
 
 languages:
   - name: Luxembourgish
+    percent: 100
   - name: English
+    percent: 100
   - name: German
+    percent: 100
   - name: French
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
