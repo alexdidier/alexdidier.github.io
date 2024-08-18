@@ -34,9 +34,9 @@ profiles:
     url: https://scholar.google.com/citations?user=m\_wFCFcAAAAJ
 
 interests:
+  - Artificial Intelligence
   - Control Theory
   - Model Predictive Control
-  - Artificial Intelligence
   - Machine Learning
 
 education:
@@ -45,10 +45,12 @@ education:
     date_start: 2020-11-01
     date_end: ''
     summary: |
-      Model Predictive Control
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      - Developed optimization-based controllers (e.g., model predictive control)
+      - Integration of machine learning methods to allow for computationally efficient implementations
+      - Focus on safety-critical systems
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: MSc Robotics, Systems and Control
     institution: ETH Zurich
     date_start: 2018-09-01 
@@ -70,6 +72,14 @@ education:
       Courses included:
       - Computational Methods for Engineers I + II
       - Control Systems I + II
+  - area: High School
+    institution: Athénée de Luxembourg
+    date_start: 2008-09-01
+    date_end: 2015-07-01
+    summary: |
+      Average Score: 53/60 with distinction "Excellent"
+
+      Graduation: Latin-Mathematics-Informatics
 
 work:
   - position: Research Assistant
