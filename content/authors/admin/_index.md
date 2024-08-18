@@ -45,7 +45,7 @@ education:
     date_start: 2020-11-01
     date_end: ''
     summary: |
-      - Developed optimization-based controllers (e.g., model predictive control)
+      - Development of optimization-based controllers (e.g., model predictive control)
       - Integration of machine learning methods to allow for computationally efficient implementations
       - Focus on safety-critical systems
     #button:
