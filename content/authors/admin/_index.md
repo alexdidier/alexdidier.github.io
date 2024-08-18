@@ -91,6 +91,7 @@ work:
       Responsibilities include:
       - Integration of an Intel RealSense camera with an NVIDIA Jetson and the ABB YuMi robot
       - Develop real-time demonstrations including scanning a 2D workfield and maneuvering around obstacles as well as following human arm positions
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/` 
 #        description: ''
