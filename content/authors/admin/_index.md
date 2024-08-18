@@ -51,7 +51,7 @@ education:
       url: 'https://example.com'
   - area: MSc Robotics, Systems and Control
     institution: ETH Zurich
-    date_start: 2018-09-01 #TODO: fix dates
+    date_start: 2018-09-01 
     date_end: 2020-10-31
     summary: |
       Average Score: 5.80/6.00 with distinction
@@ -119,9 +119,13 @@ skills:
 
 languages:
   - name: Luxembourgish
+    percent: 100
   - name: English
+    percent: 100
   - name: German
+    percent: 100
   - name: French
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
