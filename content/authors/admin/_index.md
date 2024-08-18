@@ -2,6 +2,10 @@
 # Display name
 title: Alexandre Didier
 
+# Full name (for SEO)
+first_name: Alexandre
+last_name: Didier
+
 # Is this the primary user of the site?
 superuser: true
 
