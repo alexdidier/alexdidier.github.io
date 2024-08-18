@@ -75,8 +75,8 @@ work:
   - position: Research Assistant
     company_name: ETH Zurich
     company_url: 'ethz.ch'
-    date_start: 2019-10
-    date_end: 2020-04
+    date_start: 2019-10-01
+    date_end: 2020-04-30
     summary: |2-
       Responsibilities include:
       - Design of a sum-of-squares optimisation-based safety filter
@@ -85,13 +85,13 @@ work:
   - position: Internship
     company_name: ABB Corporate Research
     company_url: 'abb.ch'
-    date_start: 2018-10
-    date_end: 2019-01
+    date_start: 2018-10-01
+    date_end: 2019-01-31
     summary: |2-
       Responsibilities include:
       - Integration of an Intel RealSense camera with an NVIDIA Jetson and the ABB YuMi robot
       - Develop real-time demonstrations including scanning a 2D workfield and maneuvering around obstacles as well as following human arm positions
-      
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/` 
 #        description: ''
