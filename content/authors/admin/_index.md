@@ -40,7 +40,7 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Control Theory/Applied Mathematics/Robotics
+  - area: PhD Control Theory | Applied Mathematics | Robotics
     institution: ETH Zurich
     date_start: 2020-11-01
     date_end: 2020-11-01
@@ -67,45 +67,60 @@ education:
     summary: |
       Average Score: 5.18/6.00
 
+      Courses included:
+      - Computational Methods for Engineers I + II
+      - Control Systems I + II
+
 work:
-  - position: test
-    company_name: test
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Assistant
+    company_name: ETH Zurich
+    company_url: 'ethz.ch'
+    date_start: 2019-10
+    date_end: 2020-04
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Design of a sum-of-squares optimisation-based safety filter
+      - Validation on simulation models
+      - Application on a hardware cart-pole setup
+  - position: Internship
+    company_name: ABB Corporate Research
+    company_url: 'abb.ch'
+    date_start: 2018-10
+    date_end: 2019-01
+    summary: |2-
+      Responsibilities include:
+      - Integration of an Intel RealSense camera with an NVIDIA Jetson and the ABB YuMi robot
+      - Develop real-time demonstrations including scanning a 2D workfield and maneuvering around obstacles as well as following human arm positions
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
+#        description: ''
+#        icon: code-bracket
+      - name: MATLAB
+      - name: C++
+      - name: Unix Shell Script
+  
+  - name: Software
+    items:
+      - name: test
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Owner of two dogs
       - name: Skiing
-        description: ''
-        icon: person-simple-walk
+      - name: Bouldering
+      - name: Chess
 
 languages:
   - name: Luxembourgish
-    percent: 100
   - name: English
-    percent: 100
   - name: German
-    percent: 100
   - name: French
-    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
