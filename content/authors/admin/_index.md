@@ -43,7 +43,7 @@ education:
   - area: PhD Control Theory | Applied Mathematics | Robotics
     institution: ETH Zurich
     date_start: 2020-11-01
-    date_end: 2020-11-01
+    date_end: ''
     summary: |
       Model Predictive Control
     button:
@@ -51,8 +51,8 @@ education:
       url: 'https://example.com'
   - area: MSc Robotics, Systems and Control
     institution: ETH Zurich
-    date_start: 2018
-    date_end: 2020
+    date_start: 2018-09-01 #TODO: fix dates
+    date_end: 2020-10-31
     summary: |
       Average Score: 5.80/6.00 with distinction
 
@@ -62,8 +62,8 @@ education:
       - Autonomous Mobile Robots
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
-    date_start: 2015
-    date_end: 2018
+    date_start: 2015-09-01
+    date_end: 2018-08-01
     summary: |
       Average Score: 5.18/6.00
 
@@ -90,7 +90,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Integration of an Intel RealSense camera with an NVIDIA Jetson and the ABB YuMi robot
-      - Develop real-time demonstrations including scanning a 2D workfield and maneuvering around obstacles as well as following human arm positions
+      - Development of real-time demonstrations including scanning a 2D workfield and maneuvering around obstacles as well as following human arm positions
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/` 
@@ -119,13 +119,9 @@ skills:
 
 languages:
   - name: Luxembourgish
-    percent: 100
   - name: English
-    percent: 100
   - name: German
-    percent: 100
   - name: French
-    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
