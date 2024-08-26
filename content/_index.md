@@ -38,6 +38,7 @@ sections:
         Use this area to speak to your mission.
     design:
       columns: '1'
+      spacing: "3rem"
   - block: collection
     id: papers
     content:
