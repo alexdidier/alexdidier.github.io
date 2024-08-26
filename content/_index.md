@@ -4,9 +4,9 @@ title: ""
 date: 2022-10-24
 type: landing
 
-design:
+#design:
   # Default section spacing
-  spacing: "1rem"
+#  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -40,7 +40,7 @@ sections:
       columns: '1'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: ['100px', '0', '100px', '0']
   - block: collection
     id: papers
     content:
