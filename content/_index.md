@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -38,6 +38,9 @@ sections:
         Use this area to speak to your mission.
     design:
       columns: '1'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: collection
     id: papers
     content:
