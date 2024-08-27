@@ -1,7 +1,7 @@
 ---
 title: A system level approach to regret optimal control
 authors:
-- Alexandre Didier
+- admin
 - Jerome Sieber
 - Melanie N Zeilinger
 date: '2022-01-01'

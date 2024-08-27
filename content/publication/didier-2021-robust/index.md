@@ -1,7 +1,7 @@
 ---
 title: Robust adaptive model predictive control of quadrotors
 authors:
-- Alexandre Didier
+- admin
 - Anilkumar Parsi
 - Jeremy Coulson
 - Roy S Smith

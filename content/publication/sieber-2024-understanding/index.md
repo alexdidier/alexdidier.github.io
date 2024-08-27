@@ -4,7 +4,7 @@ title: 'Understanding the differences in Foundation Models: Attention, State Spa
 authors:
 - Jerome Sieber
 - Carmen Amo Alonso
-- Alexandre Didier
+- admin
 - Melanie N Zeilinger
 - Antonio Orvieto
 date: '2024-01-01'
@@ -12,4 +12,5 @@ publishDate: '2024-08-27T16:57:05.756163Z'
 publication_types:
 - article
 publication: '*arXiv preprint arXiv:2405.15731*'
+featured: true
 ---

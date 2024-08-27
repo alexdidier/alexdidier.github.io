@@ -12,4 +12,5 @@ publishDate: '2024-08-27T16:57:05.750183Z'
 publication_types:
 - paper-conference
 publication: '*2023 European Control Conference (ECC)*'
+featured: true
 ---
