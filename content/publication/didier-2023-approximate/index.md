@@ -2,7 +2,7 @@
 title: 'Approximate predictive control barrier functions using neural networks: A
   computationally cheap and permissive safety filter'
 authors:
-- Alexandre Didier
+- admin
 - Robin C Jacobs
 - Jerome Sieber
 - Kim P Wabersich
