@@ -13,4 +13,5 @@ publication_types:
 - paper-conference
 publication: '*2023 European Control Conference (ECC)*'
 featured: true
+summary: Find out how we can use neural networks for approximating predictive safety filters while analysing closed-loop guarantees.
 ---

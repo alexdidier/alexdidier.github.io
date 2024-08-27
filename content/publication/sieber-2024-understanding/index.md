@@ -13,4 +13,5 @@ publication_types:
 - article
 publication: '*arXiv preprint arXiv:2405.15731*'
 featured: true
+summary: Find out how a dynamical system theoretic approach can be used to provide insights into foundation models.
 ---
