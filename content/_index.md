@@ -30,17 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission.
-    design:
-      columns: '1'
-      spacing:
+  #- block: markdown
+  #  content:
+  #    title: '📚 My Research'
+  #    subtitle: ''
+  #    text: |-
+  #      Use this area to speak to your mission.
+  #  design:
+  #    columns: '1'
+  #    spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['100px', '0', '100px', '0']
+  #      padding: ['100px', '0', '100px', '0']
   - block: collection
     id: papers
     content:
