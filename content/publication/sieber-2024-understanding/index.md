@@ -10,6 +10,6 @@ authors:
 date: '2024-01-01'
 publishDate: '2024-08-27T16:57:05.756163Z'
 publication_types:
-- article-journal
+- article
 publication: '*arXiv preprint arXiv:2405.15731*'
 ---

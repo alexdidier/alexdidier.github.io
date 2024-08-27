@@ -1,7 +1,7 @@
 ---
 title: Adaptive model predictive safety certification for learning-based control
 authors:
-- Alexandre Didier
+- admin
 - Kim P Wabersich
 - Melanie N Zeilinger
 date: '2021-01-01'
