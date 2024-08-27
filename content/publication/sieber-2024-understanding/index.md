@@ -14,4 +14,8 @@ publication_types:
 publication: '*arXiv preprint arXiv:2405.15731*'
 featured: true
 summary: Discover how a dynamical system theoretic approach can be used to provide insights into foundation models.
+image:
+  caption: 'Performance comparison of softmax attention and linear attention with increasing state expansion n.'
+  focal_point: ""
+  preview_only: false
 ---
