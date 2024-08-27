@@ -5,7 +5,7 @@ authors:
 - Jerome Sieber
 - Carmen Amo Alonso
 - admin
-- Melanie N Zeilinger
+- Melanie N. Zeilinger
 - Antonio Orvieto
 date: '2024-05-24'
 publishDate: '2024-08-27T16:57:05.756163Z'
@@ -13,5 +13,5 @@ publication_types:
 - article
 publication: '*arXiv preprint arXiv:2405.15731*'
 featured: true
-summary: Find out how a dynamical system theoretic approach can be used to provide insights into foundation models.
+summary: Discover how a dynamical system theoretic approach can be used to provide insights into foundation models.
 ---
