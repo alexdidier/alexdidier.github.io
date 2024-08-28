@@ -31,7 +31,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alex-didier
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=m\_wFCFcAAAAJ
+    url: https://scholar.google.com/citations?user=m_wFCFcAAAAJ
 
 interests:
   - Artificial Intelligence
