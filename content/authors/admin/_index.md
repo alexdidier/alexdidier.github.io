@@ -38,6 +38,7 @@ interests:
   - Control Theory
   - Model Predictive Control
   - Machine Learning
+  - Optimisation
 
 education:
   - area: PhD Control Theory | Applied Mathematics | Robotics
