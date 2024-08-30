@@ -24,15 +24,26 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  #- block: markdown
-  #  content:
-  #    title: 'Teaching'
-  #    subtitle: ''
-  #    text: |-
-  #    ### Advanced Model Predictive Control
-  #    
-  #  design:
-  #    colums: '1' 
+  - block: markdown
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+      #### Advanced Model Predictive Control at ETH Zurich, 2020-2024
+      - Produced recitation content such as slides, problem sets and 8 programming exercises and taught weekly exercise classes
+      - Scored an average of 4.5/5.0 on student feedback regarding the recitation
+
+      #### Summer School Teaching Assistant
+      - Produced recitation content such as slides and programming exercises and taught recitations at the following summer schools:
+        - "Learning-Based Predictive Control" Session at the EECI IGSC PhD School 2021, 2022 and 2023
+        - "Safe Learning For Control" Session at the DS3 Data Science Summer School 2021
+        - "Safety filters for learning-based control" Session at the International Summer School of Automatic Control 2021, Grenoble
+
+      #### Control Systems II at ETH Zurich, 2018
+      - Taught weekly exercise classes
+      
+    design:
+      colums: '1' 
   - block: markdown
     content:
       title: 'Academic Activities'
