@@ -44,6 +44,8 @@ sections:
 
     design:
       colums: '1' 
+      spacing:
+        padding: ['0', '20px', '0', '20px']
   - block: markdown
     content:
       title: 'Academic Activities'
@@ -61,6 +63,8 @@ sections:
 
     design:
       columns: '1'
+      spacing:
+        padding: ['0', '20px', '0', '20px']
   #- block: resume-awards
   #  content:
   #    title: Awards
