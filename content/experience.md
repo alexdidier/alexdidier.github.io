@@ -38,14 +38,14 @@ sections:
       title: 'Academic Activities'
       subtitle: ''
       text: |-
-        ### Invited Session Organisation
+        #### Invited Session Organisation
         - Co-organiser of the “Regret in Control of Dynamical Systems” Session at IFAC World Congress 2023
         - Co-organiser and co-chair of the “Online Learning for Optimization and Control” Session at IEEE Conference on Decision and Control 2023
         
-        ### Student Project Supervision
+        #### Student Project Supervision
         - Supervised 13 student projects including 5 Master theses and 3 research assistants projects
         
-        ### Reviews
+        #### Reviews
         - I regularly review for TAC, RA-L, L-CSS, CDC, L4DC, ECC, NMPC
 
     design:
