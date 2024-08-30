@@ -24,6 +24,8 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+      spacing:
+        padding: ['0', '20px', '0', '20px']
   - block: markdown
     content:
       title: 'Teaching'
