@@ -38,7 +38,7 @@ interests:
   - Control Theory
   - Model Predictive Control
   - Machine Learning
-  - Optimisation
+  - Optimization
 
 education:
   - area: PhD Control Theory | Applied Mathematics | Robotics
@@ -90,7 +90,7 @@ work:
     date_end: 2020-04-30
     summary: |2-
       Responsibilities include:
-      - Design of a sum-of-squares optimisation-based safety filter
+      - Design of a sum-of-squares optimization-based safety filter
       - Validation on simulation models
       - Application on a hardware cart-pole setup
   - position: Internship
@@ -115,9 +115,50 @@ skills:
       - name: C++
       - name: Unix Shell Script
   
-  - name: Software
+  - name: Numerical Optimization
     items:
-      - name: test
+      - name: CasADi
+      - name: CVXPy
+      - name: YALMIP
+      - name: acados
+      - name: MPT3
+  
+  - name: Machine Learning
+    items:
+      - name: Pytorch
+      - name: SciKit Learn
+  
+  - name: Simulation Frameworks
+    items:
+      - name: Simulink
+      - name: ROS
+    
+  - name: Numerical Computing
+    items:
+      - name: NumPy
+      - name: SciPy
+      - name: Eigen
+      - name: Pandas
+    
+  - name: Parallel Programming
+    items:
+      - name: CUDA
+      - name: Open MPI
+  
+  - name: DevOps Tools
+    items:
+      - name: Git
+      - name: Docker
+
+  - name: Data Visualization
+    items:
+      - name: Matplotlib
+      - name: Seaborn
+
+  - name: Document Preparation
+    items:
+      - name: LaTeX
+      - name: Microsoft Office
 
   - name: Hobbies
     color: '#eeac02'
