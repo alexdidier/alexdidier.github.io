@@ -136,7 +136,7 @@ languages:
   - name: German
     percent: 100
   - name: French
-    percent: 75
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
