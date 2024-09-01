@@ -194,4 +194,4 @@ languages:
 
 ## About Me
 
-Alexandre Didier is a doctoral student under the supervision of Prof. Dr. Melanie Zeilinger at IDSC, D-MAVT, ETH Zurich.
+Hi, I'm Alexandre Didier, a doctoral student under the supervision of Prof. Dr. Melanie Zeilinger at IDSC, D-MAVT, ETH Zurich. My main research interests lie in the development of predictive safety filters. These filters use model predictive control techniques to enhance any learning-based controller, such as policies arising, e.g., from reinforcement learning, or human operators, with safety guarantees. I'm also interested in establishing relationships between online optimization and classical control theory and recently I have looked into how system theory can be used in the context of foundation models.
