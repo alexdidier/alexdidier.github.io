@@ -61,7 +61,7 @@ sections:
         - Supervised 13 student projects including 5 Master theses and 3 research assistants projects
         
         #### Reviews
-        - I regularly review for TAC, RA-L, L-CSS, CDC, L4DC, ECC, NMPC
+        - I regularly review for TAC, T-RO, Automatica, RA-L, L-CSS, CDC, L4DC, ECC, NMPC
 
     design:
       columns: '1'
