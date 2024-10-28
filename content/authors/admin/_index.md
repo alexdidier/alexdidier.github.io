@@ -26,12 +26,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:adidier@ethz.ch'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexdidier
+  #- icon: brands/github
+  #  url: https://github.com/alexdidier
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alex-didier
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=m_wFCFcAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-5396-8996
 
 interests:
   - Artificial Intelligence
