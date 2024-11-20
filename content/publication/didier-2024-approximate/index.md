@@ -1,5 +1,5 @@
 ---
-title: 'Approximate predictive control barrier function for discrete-time systems'
+title: Approximate predictive control barrier function for discrete-time systems
 authors:
 - admin
 - Melanie N. Zeilinger
