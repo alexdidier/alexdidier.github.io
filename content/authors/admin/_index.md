@@ -26,8 +26,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:adidier@ethz.ch'
     label: E-mail Me
-  #- icon: brands/github
-  #  url: https://github.com/alexdidier
+  - icon: brands/github
+    url: https://github.com/alexdidier
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alex-didier
   - icon: academicons/google-scholar
