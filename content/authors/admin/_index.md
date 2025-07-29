@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctoral Student
+role: Doctoral Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,18 +37,19 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Control Theory
+  - Control Systems
   - Model Predictive Control
+  - Robotics
   - Machine Learning
   - Optimization
 
 education:
-  - area: PhD Control Theory | Applied Mathematics | Robotics
+  - area: PhD Control Systems
     institution: ETH Zurich
     date_start: 2020-11-01
-    date_end: ''
+    date_end: 2025-06-10
     summary: |
-      - Development of optimization-based controllers (e.g., model predictive control)
+      - Development of optimization-based controllers (e.g., model predictive control) and safety filters for reinforcement learning
       - Integration of machine learning methods to allow for computationally efficient implementations
       - Focus on safety-critical systems
     #button:
@@ -145,7 +146,6 @@ skills:
   - name: Parallel Programming
     items:
       - name: CUDA
-      - name: Open MPI
   
   - name: DevOps Tools
     items:
@@ -196,4 +196,4 @@ languages:
 
 ## About Me
 
-Hi, I\'m Alexandre Didier, a doctoral student under the supervision of Prof. Dr. Melanie Zeilinger at IDSC, D-MAVT, ETH Zurich. My main research interests lie in the development of predictive safety filters. These filters use model predictive control techniques to enhance any learning-based controller \(e.g. reinforcement learning policies) or human operators with safety guarantees. I\'m also interested in establishing relationships between online optimization and classical control theory and recently I have looked into how system theory can be used in the context of foundation models.
+Hi, I\'m Alexandre Didier, a doctoral graduate in the group of Prof. Dr. Melanie Zeilinger at IDSC, D-MAVT, ETH Zurich. My main research interests lie in the development of predictive safety filters. These filters use model predictive control techniques to enhance any learning-based controller \(e.g. reinforcement learning policies) or human operators with safety guarantees. I\'m also interested in establishing relationships between online optimization and classical control theory and recently I have looked into how system theory can be used in the context of foundation models.
