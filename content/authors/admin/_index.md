@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctoral Graduate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -196,4 +196,4 @@ languages:
 
 ## About Me
 
-Hi, I\'m Alexandre Didier, a doctoral graduate in the group of Prof. Dr. Melanie Zeilinger at IDSC, D-MAVT, ETH Zurich. My main research interests lie in the development of predictive safety filters. These filters use model predictive control techniques to enhance any learning-based controller \(e.g. reinforcement learning policies) or human operators with safety guarantees. I\'m also interested in establishing relationships between online optimization and classical control theory and recently I have looked into how system theory can be used in the context of foundation models.
+Hi, I\'m Alexandre Didier, a postdoctoral researcher in the group of Prof. Dr. Melanie Zeilinger at IDSC, D-MAVT, ETH Zurich. My main research interests lie in the development of safe control algorithms, such as predictive safety filters, with application to autonomous vehicles and robots. These filters use model predictive control techniques to enhance any learning-based controller \(e.g. reinforcement learning policies) or human operators with safety guarantees. I\'m also interested in establishing relationships between online optimization and classical control theory and recently I have looked into how system theory can be used in the context of foundation models.
