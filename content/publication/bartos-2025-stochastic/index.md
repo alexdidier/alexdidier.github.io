@@ -5,7 +5,7 @@ authors:
 - admin
 - Jerome Sieber
 - Johannes Köhler
-- Melanie N Zeilinger
+- Melanie N. Zeilinger
 date: '2025-01-21'
 publishDate: '2025-01-21T09:29:10.099013Z'
 publication_types:
