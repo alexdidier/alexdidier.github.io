@@ -31,7 +31,7 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        #### Advanced Model Predictive Control at ETH Zurich, 2020-2024
+        #### Advanced Model Predictive Control at ETH Zurich, 2020-2025
         - Produced recitation content such as slides, problem sets and 8 programming exercises and taught weekly exercise classes
         - Scored an average of 4.5/5.0 on student feedback regarding the recitation
 
